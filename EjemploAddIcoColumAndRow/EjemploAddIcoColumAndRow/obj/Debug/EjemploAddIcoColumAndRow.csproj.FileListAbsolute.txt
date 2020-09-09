@@ -1,0 +1,6 @@
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAddIcoColumAndRow\EjemploAddIcoColumAndRow\obj\Debug\EjemploAddIcoColumAndRow.csprojResolveAssemblyReference.cache
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAddIcoColumAndRow\EjemploAddIcoColumAndRow\obj\Debug\EjemploAddIcoColumAndRow.dll.licenses
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAddIcoColumAndRow\EjemploAddIcoColumAndRow\bin\EjemploAddIcoColumAndRow.dll
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAddIcoColumAndRow\EjemploAddIcoColumAndRow\bin\EjemploAddIcoColumAndRow.pdb
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAddIcoColumAndRow\EjemploAddIcoColumAndRow\obj\Debug\EjemploAddIcoColumAndRow.dll
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAddIcoColumAndRow\EjemploAddIcoColumAndRow\obj\Debug\EjemploAddIcoColumAndRow.pdb
