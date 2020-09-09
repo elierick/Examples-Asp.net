@@ -1,0 +1,6 @@
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploDatosModerboard\EjemploDatosModerboard\bin\EjemploDatosModerboard.dll
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploDatosModerboard\EjemploDatosModerboard\bin\EjemploDatosModerboard.pdb
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploDatosModerboard\EjemploDatosModerboard\obj\Debug\EjemploDatosModerboard.dll
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploDatosModerboard\EjemploDatosModerboard\obj\Debug\EjemploDatosModerboard.pdb
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploDatosModerboard\EjemploDatosModerboard\obj\Debug\EjemploDatosModerboard.dll.licenses
+E:\Datos Usuarios\Erick Castillo\Documents\Visual Studio 2010\Projects\EjemploDatosModerboard\EjemploDatosModerboard\obj\Debug\EjemploDatosModerboard.csprojResolveAssemblyReference.cache

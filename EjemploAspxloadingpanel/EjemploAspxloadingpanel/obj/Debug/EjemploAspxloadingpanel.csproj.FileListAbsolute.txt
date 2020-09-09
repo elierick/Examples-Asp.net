@@ -1,0 +1,6 @@
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAspxloadingpanel\EjemploAspxloadingpanel\bin\EjemploAspxloadingpanel.dll
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAspxloadingpanel\EjemploAspxloadingpanel\bin\EjemploAspxloadingpanel.pdb
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAspxloadingpanel\EjemploAspxloadingpanel\obj\Debug\EjemploAspxloadingpanel.csprojResolveAssemblyReference.cache
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAspxloadingpanel\EjemploAspxloadingpanel\obj\Debug\EjemploAspxloadingpanel.dll.licenses
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAspxloadingpanel\EjemploAspxloadingpanel\obj\Debug\EjemploAspxloadingpanel.dll
+e:\datos usuarios\erick castillo\documents\visual studio 2010\Projects\EjemploAspxloadingpanel\EjemploAspxloadingpanel\obj\Debug\EjemploAspxloadingpanel.pdb
